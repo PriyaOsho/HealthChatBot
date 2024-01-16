@@ -1,0 +1,8 @@
+Import necessary libraries.
+Load and preprocess the training and testing data.
+Encode labels.
+Split data into training and testing sets.
+Train DecisionTreeClassifier and SVC models.
+Calculate feature importances.
+Initialize and fill severityDictionary, description_list, and precautionDictionary from CSV files.
+
